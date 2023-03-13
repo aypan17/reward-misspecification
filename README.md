@@ -13,7 +13,7 @@ Each repository has its own installation requirements. We recommend setting up a
 The `flow`, `pandemic`, `glucose`, `atari` folders hold code for the traffic, COVID, blood glucose monitoring, and atari experiments, respectively. The `flow_cfg` folder holds experiment setup for the traffic experiments.
 
 ## Citation
-If you use these environments in your own work, please cite us as:
+If you use these environments in your own work, please consider citing us!
 ```
 @inproceedings{
     pan2022rewardhacking,
